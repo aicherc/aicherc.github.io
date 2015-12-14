@@ -3,49 +3,14 @@ layout: default
 title: Home
 ---
 
-##Hello world!
+##Bio
+<img src="images/christopher_aicher.png" alt="Christopher Aicher" align="right" style="height:140px; width:140px; margin:0px 20px">
+I am a second year statistics PhD student at the University of Washington working with Emily Fox.
 
-### Subheading
+Prior to studying at the University of Washington, I obtained a BS and a MS degree in Applied Mathematics from the University of Colorado Boulder, advised by Aaron Clauset.
 
-This is a **test**.
+##Research
+My current research interests are in approximate Bayesian inference methods (e.g. expectation propagation or variational inference).
 
-A few things about me:
-
-* I love machine learning
-* My favorite sports team is the *Green Bay Packers*
-* I'd recommend reading *The Way of Kings* by Brandon Sanderson
-
-
-### Statistics
-
-I like statistics. 
-My favorite equation is *Bayes Rule*
-
-$$
-\Pr( \theta \ | \ D) \propto \Pr( D \ | \ \theta) \Pr(\theta) 
-$$
-
-where the normalization constant is
-
-$$
-\sum_{\theta' \ \in \ \Theta} \Pr( D \ | \ \theta') \Pr(\theta') \enspace.
-$$
-
-### Code
-
-I also enjoy writing in `python`
-
-``` python
-def writing_code(time, energy):
-    """ Code takes time and energy """
-    time += -10  # Coding reduces time
-    energy *= 0.9  # Coding reduces energy
-    if time > 0:
-        excellent_python_code = True
-        return excellent_python_code
-    else:
-        return None
-```
-
-
-
+###Publications
+{% bibliography %}
