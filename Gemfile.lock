@@ -24,7 +24,6 @@ GEM
       execjs
     coffee-script-source (1.10.0)
     colorator (0.1)
-    commonjs (0.2.7)
     csl (1.4.3)
       namae (~> 0.7)
     csl-styles (1.0.1.6)
@@ -36,8 +35,6 @@ GEM
       multipart-post (>= 1.2, < 3)
     fast-stemmer (1.0.2)
     ffi (1.9.10)
-    font-awesome-less (4.5.0)
-      less (>= 2.4.0)
     gemoji (2.1.0)
     github-pages (40)
       RedCloth (= 4.2.9)
@@ -113,8 +110,6 @@ GEM
     kramdown (1.9.0)
     latex-decode (0.2.2)
       unicode (~> 0.4)
-    less (2.6.0)
-      commonjs (~> 0.2.7)
     liquid (2.6.2)
     listen (3.0.5)
       rb-fsevent (>= 0.9.3)
@@ -162,9 +157,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  font-awesome-less
   github-pages
   jekyll-scholar
 
 BUNDLED WITH
-   1.10.6
+   1.12.5

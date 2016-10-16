@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://aicherc.github.io" # the base hostname & protocol for your site
 
 # Build settings
-markdown: redcarpet
+markdown: redcarpet #kramdown
 permalink: pretty
 highlighter: pygments
 
@@ -41,4 +41,4 @@ scholar:
   repository: ./pdf
 
 # Other Stuff
-exclude: ["Gemfile","README.md"]
+exclude: ["Gemfile", "README.md", "build.sh", "deploy-to-master.sh"]
