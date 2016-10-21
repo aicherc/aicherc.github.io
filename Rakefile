@@ -31,6 +31,9 @@ task :deploy do
   message = "Build production site at #{Time.now.utc}"
   status = system("git commit -m \"#{message}\"")
   puts status ? "Success" : "Failed"
+  puts "\n## Pushing commits to remote #{production_branch}"
+  status = system("git push origin #{production_branch}")
+  puts status ? "Success" : "Failed"
 
   puts "\n## Switching back to #{source_branch} branch"
   status = system("git checkout #{source_branch}")
