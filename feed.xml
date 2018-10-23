@@ -6,15 +6,15 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Feb 2018 21:16:52 -0800</pubDate>
-    <lastBuildDate>Wed, 28 Feb 2018 21:16:52 -0800</lastBuildDate>
+    <pubDate>Mon, 22 Oct 2018 21:52:31 -0700</pubDate>
+    <lastBuildDate>Mon, 22 Oct 2018 21:52:31 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Hello World!</title>
         <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Hello World!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 21 Jul 2015 08:00:00 -0700</pubDate>
+        <pubDate>Tue, 21 Jul 2015 15:00:00 +0000</pubDate>
         <link>/2015/07/21/welcome-to-jekyll/</link>
         <guid isPermaLink="true">/2015/07/21/welcome-to-jekyll/</guid>
         
