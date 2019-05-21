@@ -20,5 +20,14 @@ and stochastic gradient MCMC methods (e.g. SGLD).
 * Machine Learning Intern, *Dato* (now *Turi/Apple*) (*06/15-09/15*)
 
 ##Publications
+
 {% bibliography %}
 
+<!-- See Also: [My Google Scholar Profile](https://scholar.google.com/citations?user=UWwqmrkAAAAJ&hl=en) 
+
+
+##Presentations
+
+
+##Teaching
+-->
