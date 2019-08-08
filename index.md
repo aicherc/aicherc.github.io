@@ -6,7 +6,7 @@ title: Home
 ##Bio
 <img src="images/christopher_aicher_ski.jpg" alt="Christopher Aicher" align="right" style="height:140px; width:140px; margin:0px 20px">
 I am a fifth year statistics PhD student at the [University of Washington](http://www.stat.washington.edu/) working with [Emily B. Fox](https://www.stat.washington.edu/~ebfox/).
-Prior to studying at the University of Washington, I obtained a BS/MS degree in Applied Mathematics from the University of Colorado Boulder, advised by [Aaron Clauset](http://tuvalu.santafe.edu/~aaronc/).
+Prior to studying at the University of Washington, I obtained a BS/MS degree in Applied Mathematics from the University of Colorado, advised by [Aaron Clauset](http://tuvalu.santafe.edu/~aaronc/).
 
 ##Research
 My research interests are in scalable approximate inference methods for machine learning,
@@ -23,7 +23,6 @@ My research projects include:
 * Research Intern, *Microsoft AI and Research* (*06/17-09/17*)
     * Worked with Consumer Data \& Analytics team on short-form text clustering.
     * Developed an on-line feature extractor using RNNs and non-parametric clustering.
-    * Presented work at internal "Machine Learning, AI, Data Science 2017" conference.
 * Research Scientist Intern, *Amazon* (*06/16-09/16*)
     * Worked with the Kindle devices demand planning team on forecasting sales.
     * Developed a custom R package for prototyping new models.
@@ -32,15 +31,29 @@ My research projects include:
     * Researched, developed, and shipped a new itemset mining toolkit as part
  of GraphLab Create's machine learning applications library.
 
+
 ##Publications
 
 {% bibliography %}
 
 <!-- See Also: [My Google Scholar Profile](https://scholar.google.com/citations?user=UWwqmrkAAAAJ&hl=en) 
 
-
 ##Presentations
 
 
-##Teaching
 -->
+
+##Teaching
+
+* Teaching Assistant (University of Washington)
+    * Statistical Methods in Engineering and Science (STAT 390)
+* Learning Assistant (University of Colorado)
+    * Applied Probability (APPM 3570)
+    * Mathematical Statistics (APPM 4570)
+    * Matrix Methods and Applications (APPM 3310)
+    * Calculus 2 (APPM 1360)
+
+
+
+
+
