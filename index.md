@@ -22,7 +22,7 @@ My research projects include:
 ##Experience
 * Research Intern, *Microsoft AI and Research* (*06/17-09/17*)
     * Worked with Consumer Data \& Analytics team on short-form text clustering.
-    * Developed an on-line feature extractor using RNNs and non-parametric clustering.
+    * Developed an online feature extractor using RNNs and non-parametric clustering.
 * Research Scientist Intern, *Amazon* (*06/16-09/16*)
     * Worked with the Kindle devices demand planning team on forecasting sales.
     * Developed a custom R package for prototyping new models.
