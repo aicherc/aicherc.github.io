@@ -3,10 +3,9 @@
 {{ reference | replace_first: 'Aicher, C.', '<b>Aicher, C.</b>' }}
 
 {% if entry.link %}
-<a href={{entry.link}} > [PDF] </a>
+<a href={{entry.link}}> [PDF] </a>
 {% else %}
-<a href={{site.url}}/pdf/{{entry.key}}.pdf> PDF </a>
-&nbsp
+<a href={{site.url}}/pdf/{{entry.key}}.pdf> [PDF] </a>
 {% endif %}
 {% if entry.code %}
 <a href={{entry.code}} > [Code] </a>
