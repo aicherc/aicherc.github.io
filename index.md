@@ -5,7 +5,7 @@ title: Home
 
 ##Bio
 <img src="images/christopher_aicher_ski.jpg" alt="Christopher Aicher" align="right" style="height:140px; width:140px; margin:0px 20px">
-I am a fifth year statistics PhD student at the [University of Washington](http://www.stat.washington.edu/) working with [Emily B. Fox](https://www.stat.washington.edu/~ebfox/).
+I am a statistics PhD student at the [University of Washington](http://www.stat.washington.edu/) advised by [Emily B. Fox](https://www.stat.washington.edu/~ebfox/).
 Prior to studying at the University of Washington, I obtained a BS/MS degree in Applied Mathematics from the University of Colorado, advised by [Aaron Clauset](http://tuvalu.santafe.edu/~aaronc/).
 
 ##Research
@@ -14,10 +14,10 @@ specifically using deterministic Bayesian approximations (e.g. Expectation Propa
 and stochastic gradient MCMC methods (e.g. SGLD).
 My research projects include:
 
-* Stochastic Gradient Methods for Time Series
-* Adaptive Truncation of Backpropagation in Recurrent Neural Networks
-* Community Detection in Weighted Network Data using Variational Inference
-* Time Series Clustering using Expectation Propagation
+* [Stochastic Gradient Methods for Time Series](https://arxiv.org/abs/1810.09098)
+* [Adaptive Truncation of Backpropagation in Recurrent Neural Networks](https://arxiv.org/abs/1905.07473)
+* [Community Detection in Weighted Network Data using Variational Inference](https://arxiv.org/abs/1404.0431)
+* [Time Series Clustering using Expectation Propagation](https://arxiv.org/abs/1807.07621)
 
 ##Experience
 * Research Intern, *Microsoft AI and Research* (*06/17-09/17*)
