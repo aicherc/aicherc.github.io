@@ -5,8 +5,9 @@ title: Home
 
 ##Bio
 <img src="images/christopher_aicher_ski.jpg" alt="Christopher Aicher" align="right" style="height:140px; width:140px; margin:0px 20px">
-I am a statistics PhD student at the [University of Washington](http://www.stat.washington.edu/) advised by [Emily B. Fox](https://www.stat.washington.edu/~ebfox/).
-Prior to studying at the University of Washington, I obtained a BS/MS degree in Applied Mathematics from the University of Colorado, advised by [Aaron Clauset](http://tuvalu.santafe.edu/~aaronc/).
+I am a quantitative researcher at [Citadel Securities](https://www.citadelsecurities.com/) in Chicago.
+I received a PhD from the [Department of Statistics](http://www.stat.washington.edu/) at the University of Washington where I was advised by [Emily B. Fox](https://www.stat.washington.edu/~ebfox/).
+Prior to my PhD at the University of Washington, I received a BS and MS degree from the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at the University of Colorado where I was advised by [Aaron Clauset](http://tuvalu.santafe.edu/~aaronc/).
 
 ##Research
 My research interests are in scalable approximate inference methods for machine learning,
