@@ -21,6 +21,9 @@ My research projects include:
 * [Time Series Clustering using Expectation Propagation](https://arxiv.org/abs/1807.07621)
 
 ##Experience
+* Quantitative Researcher, *Citadel Securites* (*03/20-Current*)
+    * Applying statistical/ML techinques and engineering skills to model markets,
+test hypotheses and develop proprietary algorithms.
 * Research Intern, *Microsoft AI and Research* (*06/17-09/17*)
     * Worked with Consumer Data \& Analytics team on short-form text clustering.
     * Developed an online feature extractor using RNNs and non-parametric clustering.
